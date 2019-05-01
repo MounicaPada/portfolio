@@ -1,0 +1,171 @@
+
+
+body,  html{
+  margin: 0;
+  padding: 0;
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqnUJfLuelA7WQbEJZXeuaJ0wSCT6AS2B3A-GukS4ydh70uWPfHoMumjgo");
+   background-size:cover;
+    background-repeat: no-repeat;
+}
+body{
+background:none;
+}
+
+h1{
+color:#FFFFFF;
+text-align:center;
+font-family:Impact, Charcoal, sans-serif;
+}
+
+.header{
+	color:#FFFFFF;
+}
+
+p.indent {
+    margin:50px 50px 50px 50px;
+	font-size:20px;
+	color:blue;
+}
+
+div {
+	border-radius: 5px;
+
+}
+
+
+
+#name {
+	float:left;
+	margin-left: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color:#FFFFFF;
+}
+
+#email{
+	float:right;
+	margin-right: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color:#FFFFFF;
+}
+
+
+
+
+li {
+	list-style-type: square;
+		color:#000000;
+		font-size:20px;
+}
+
+footer {
+	position: relative;
+	height: 50px;
+	background-color: none;
+	clear: both;
+	font-family: Georgia;
+	font-size: 18px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+footer p {
+	position: relative;
+	padding-top: 15px;
+	font-size: 18px;
+}
+ 
+
+
+h4{
+    margin-right: 25px;
+    margin-left: 25px;
+	font-size:18;
+	color:#FFFFFF;
+	font-family:Impact, Charcoal, sans-serif;
+}
+div {
+	border-radius: 5px;
+
+}
+
+
+
+#name {
+	float:left;
+	margin-left: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color:#FFFFFF;
+}
+
+#email{
+	float:right;
+	margin-right: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: black ;
+}
+
+
+
+
+li {
+	list-style-type: square;
+		color:#000000;
+}
+
+
+
+
+footer {
+	position: relative;
+	height: 50px;
+	background-color: none;
+	clear: both;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	color: black;
+}
+
+ 
+ button {
+  background-color:#ADD8E6;
+  margin-left:185px;
+  color: #000000;
+  font-size: 30px;
+  padding: 8px 30px;
+  text-decoration: none;
+  display: inline-block;
+  }
+  
+button:hover {
+  background-color: grey;
+}
+  
+  li{
+ 	color:#000000;
+	font-size:18;
+  }
+
+
+p{
+	line-height:2em;
+}
+
+
+
+
+
+
+
+
+
+
+
